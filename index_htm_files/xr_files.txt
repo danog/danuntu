@@ -1,0 +1,112 @@
+index_htm_files
+index.htm
+translate.htm
+egg.htm
+download.htm
+configuration.htm
+base-mirrors.htm
+lxde-mirrors.htm
+kde-mirrors.htm
+xfce-mirrors.htm
+instructions.htm
+linux installation picuntu tarball.htm
+linux installation nokern tarball.htm
+linux installation picuntu tarball 1.htm
+linux installation picuntu tarball 2.htm
+linux installation nokern tarball 1.htm
+linux installation nokern tarball 2.htm
+linux installation picuntu image.htm
+se208bw linux installation picuntu image.htm
+windows image installation.htm
+mac image installation.htm
+ipad installation.htm
+removal.htm
+contact me!.htm
+disclaimer.htm
+other projects.htm
+index_htm_files/375.png
+index_htm_files/376.png
+index_htm_files/377.jpg
+index_htm_files/378.jpg
+index_htm_files/379.png
+index_htm_files/380.png
+index_htm_files/395.jpg
+index_htm_files/384.png
+index_htm_files/18.png
+index_htm_files/21.jpg
+index_htm_files/22.png
+index_htm_files/23.jpg
+index_htm_files/211.png
+index_htm_files/35.png
+index_htm_files/34.png
+index_htm_files/212.png
+index_htm_files/213.png
+index_htm_files/214.png
+index_htm_files/215.png
+index_htm_files/216.png
+index_htm_files/217.png
+index_htm_files/218.png
+index_htm_files/219.png
+index_htm_files/220.png
+index_htm_files/152.png
+index_htm_files/153.png
+index_htm_files/154.png
+index_htm_files/221.png
+index_htm_files/222.png
+index_htm_files/223.png
+index_htm_files/224.png
+index_htm_files/225.png
+index_htm_files/226.png
+index_htm_files/290.png
+index_htm_files/291.png
+index_htm_files/292.png
+index_htm_files/293.png
+index_htm_files/294.png
+index_htm_files/295.png
+index_htm_files/296.jpg
+index_htm_files/297.jpg
+index_htm_files/298.jpg
+index_htm_files/299.jpg
+index_htm_files/300.jpg
+index_htm_files/301.jpg
+index_htm_files/302.png
+index_htm_files/304.jpg
+index_htm_files/59.png
+index_htm_files/60.png
+index_htm_files/61.png
+index_htm_files/181.jpg
+index_htm_files/182.jpg
+index_htm_files/183.jpg
+index_htm_files/184.jpg
+index_htm_files/185.jpg
+index_htm_files/186.jpg
+index_htm_files/68.png
+index_htm_files/69.png
+index_htm_files/70.png
+index_htm_files/71.png
+index_htm_files/192.jpg
+index_htm_files/193.jpg
+index_htm_files/194.jpg
+index_htm_files/195.jpg
+index_htm_files/196.jpg
+index_htm_files/77.jpg
+index_htm_files/326.png
+index_htm_files/327.png
+index_htm_files/328.png
+index_htm_files/329.jpg
+index_htm_files/330.jpg
+index_htm_files/331.jpg
+index_htm_files/332.jpg
+index_htm_files/333.jpg
+index_htm_files/334.jpg
+index_htm_files/339.png
+index_htm_files/340.png
+index_htm_files/341.png
+index_htm_files/342.png
+index_htm_files/343.png
+index_htm_files/344.png
+index_htm_files/345.png
+index_htm_files/346.png
+index_htm_files/349.png
+index_htm_files/350.png
+index_htm_files/351.png
